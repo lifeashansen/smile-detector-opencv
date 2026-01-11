@@ -1,7 +1,7 @@
 [project]
 name = "smile-detector"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple smile detector"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
